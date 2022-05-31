@@ -1,0 +1,17 @@
+Tools for penetration testing and security audit: 
+
+-Varanid.io: is an all-in-one tool that makes it really easy to monitor a   lot of thing for pentest/bug bounty purposes. 
+
+-Cyber.dic : is a spellcheck dictionary to add support of 1700+ technical terms to Microsoft Word & LibreOffice Writer. 
+
+- Mobexler : is a customised virtual machine, based on Elementary  OS, designed to help in penetration testing of Android & iOS apps.
+
+- Swamp  is an OSINT tool for discovering associated sites through Google Analytics Tracking IDs. 
+
+- Syborgis a recursive DNS Domain Enumerator with dead-end avoidance system.
+
+- Fav-up is so creative! It helps you find a server’s origin IP behind Cloudflare by looking up its favicon on Shodan.
+
+- Dnsgen is like altdns on steroïds. It generates a combination of domain names from provided input. 
+
+
